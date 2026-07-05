@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ramilsafin-star.github.io/maria-regul/sitemap.xml
